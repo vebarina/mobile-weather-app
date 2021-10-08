@@ -24,7 +24,7 @@ You can check out my other projects [here](https://github.com/vebarina?tab=repos
 
 5. Type _git clone_, and then paste the SSH you copied earlier:
 
-`$ git clone git@github.com:vebarina/weather-app.git`
+`$ git clone git@github.com:vebarina/mobile-weather-app.git`
 
 6. Press _Enter_ to create your local clone.
 
