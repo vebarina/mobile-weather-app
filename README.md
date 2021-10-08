@@ -12,7 +12,11 @@ You can check out my other projects [here](https://github.com/vebarina?tab=repos
 
 1. Navigate to the main page of the repository, and click on the _code_ button:
 
-2) Click on the tab SSH, and copy the given link:
+<img width="323" alt="Screenshot 2021-09-13 at 14 59 59" src="https://user-images.githubusercontent.com/64650497/133133580-3105ca66-846d-4710-b7ff-ca869c426f1d.png">
+
+2. Click on the tab SSH, and copy the given link:
+
+<img width="363" alt="Screenshot 2021-10-08 at 15 08 21" src="https://user-images.githubusercontent.com/64650497/136602925-df3aac14-1b3f-4554-aea4-53b718e2c03e.png">
 
 3. Open your terminal.
 
@@ -28,8 +32,13 @@ You can check out my other projects [here](https://github.com/vebarina?tab=repos
 
 ## Setting up the app 🗒️
 
-1. In your terminal, navigate to your cloned repository.
+1. Run `npm install -g expo-cli` to install Expo CLI globally.
 
-2. Run `npm install` to install all dependencies.
+2. Install the **Expo client** app on your _iOS_ or _Android_ phone and connect to the same wireless network as your computer.
 
-3. Run `npm start` to start the app.
+3. In your terminal, navigate to your cloned repository.
+
+4. Run `npm start` or `expo start` to start the app.
+
+> On Android, use the Expo app to scan the QR code from your terminal to open your project.
+> On iOS, use the built-in QR code scanner of the Camera app.
