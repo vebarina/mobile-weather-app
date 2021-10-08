@@ -38,7 +38,9 @@ You can check out my other projects [here](https://github.com/vebarina?tab=repos
 
 3. Navigate to your cloned repository.
 
-4. Run `npm start` or `expo start` to start the app.
+4. Run `npm install` to install all dependencies.
+
+5. Run `npm start` or `expo start` to start the app.
 
 > On Android, use the Expo app to scan the QR code from your terminal to open your project.
 > On iOS, use the built-in QR code scanner of the Camera app.
