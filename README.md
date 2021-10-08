@@ -32,11 +32,11 @@ You can check out my other projects [here](https://github.com/vebarina?tab=repos
 
 ## Setting up the app 🗒️
 
-1. Run `npm install -g expo-cli` to install Expo CLI globally.
+1. Install the **Expo client** app on your _iOS_ or _Android_ phone and connect to the same wireless network as your computer.
 
-2. Install the **Expo client** app on your _iOS_ or _Android_ phone and connect to the same wireless network as your computer.
+2. In your terminal, run `npm install -g expo-cli` to install Expo CLI globally.
 
-3. In your terminal, navigate to your cloned repository.
+3. Navigate to your cloned repository.
 
 4. Run `npm start` or `expo start` to start the app.
 
