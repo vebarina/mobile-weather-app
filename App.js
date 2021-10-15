@@ -5,7 +5,6 @@ import Dropdown from './src/components/Dropdown';
 
 export default function App() {
 
-  console.log("hola");
   return (
     <SafeAreaView style={styles.container}>
       <Header />
